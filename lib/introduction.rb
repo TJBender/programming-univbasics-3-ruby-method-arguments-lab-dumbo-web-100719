@@ -12,7 +12,9 @@ def introduction_with_language(name, language)
   program in #{language}"
 end
 
-def introduction_with_language_optional(name, language)
+def introduction_with_language_optional(name, language = "Ruby") 
+  
+end
 
 
 
